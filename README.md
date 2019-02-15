@@ -1,4 +1,4 @@
-# onibus-io
+# onibus.io
 
 Entre seus objetivos: encontrar e integrar dados, melhorar a acessibilidade e gerar diferentes formatos de consumo para informações públicas sobre o sistema de ônibus de Curitiba.
 
