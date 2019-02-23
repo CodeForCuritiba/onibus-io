@@ -1,5 +1,9 @@
 # onibus.io
 
+A iniciativa onibus.io tem como objetivo ser um agregador de dados relacionados ao transporte público de Curitiba.
+A disponibilização de dados de forma aberta e fácil propicia melhor experiência aos usuários e facilita a agregação de funcionalidades para futuros desenvolvedores que os utilizarão.
+Assim o projeto tem como benefício sociais e tecnológicos.
+
 Entre seus objetivos: encontrar e integrar dados, melhorar a acessibilidade e gerar diferentes formatos de consumo para informações públicas sobre o sistema de ônibus de Curitiba.
 
 Exemplo de produto que pode ser gerado com base em dados públicos: trabalho de [Henrique Jakobi - Sistema de informação para transporte público](https://www.behance.net/gallery/20408687/Sistema-de-informacao-para-transporte-publico)
