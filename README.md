@@ -4,7 +4,7 @@ A iniciativa onibus.io, criada em 2019 e mantida pelo grupo Code for Curitiba, t
 
 Através de dados publicados pela URBS, ItitBus e gazeta do povo o sistema reúne os dados para fácil utilização e aplicação. A coleta das informações, até o momento, é realizada através de web-scrapping.
 
-Entre seus objetivos: encontrar e integrar dados, melhorar a acessibilidade e gerar diferentes formatos de consumo para informações públicas sobre o sistema de ônibus de Curitiba.
+**Entre seus objetivos:** encontrar e integrar dados, melhorar a acessibilidade e gerar diferentes formatos de consumo para informações públicas sobre o sistema de ônibus de Curitiba.
 
 Exemplo de produto que pode ser gerado com base em dados públicos: trabalho de [Henrique Jakobi - Sistema de informação para transporte público](https://www.behance.net/gallery/20408687/Sistema-de-informacao-para-transporte-publico)
 ![Exemplo 901](https://mir-s3-cdn-cf.behance.net/project_modules/1400/c1e43320408687.5bedbd715479b.png)
