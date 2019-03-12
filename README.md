@@ -6,7 +6,7 @@ Através de dados publicados pela URBS, ItitBus e gazeta do povo o sistema reún
 
 **Entre seus objetivos:** encontrar e integrar dados, melhorar a acessibilidade e gerar diferentes formatos de consumo para informações públicas sobre o sistema de ônibus de Curitiba.
 
-![Mapa rascunho](https://raw.githubusercontent.com/CodeForCuritiba/onibus-io/master/docs/g7153.png)
+![Mapa rascunho](https://raw.githubusercontent.com/CodeForCuritiba/onibus-io/master/docs/g7154.png)
 
 ***
 
