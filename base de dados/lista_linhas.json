@@ -1,6 +1,8 @@
 [
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbd3"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbd3"
+        },
         "COD": "464",
         "NOME": "A. MUNHOZ / J. BOTÂNICO",
         "SOMENTE_CARTAO": "S",
@@ -11,7 +13,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/464"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbd4"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbd4"
+        },
         "COD": "226",
         "NOME": "ABAETÉ",
         "SOMENTE_CARTAO": "N",
@@ -22,7 +26,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/226"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbd5"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbd5"
+        },
         "COD": "182",
         "NOME": "ABRANCHES",
         "SOMENTE_CARTAO": "N",
@@ -33,7 +39,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/182"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbd6"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbd6"
+        },
         "COD": "332",
         "NOME": "ACRÓPOLE",
         "SOMENTE_CARTAO": "N",
@@ -44,7 +52,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/332"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbd7"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbd7"
+        },
         "COD": "334",
         "NOME": "AGRÍCOLA",
         "SOMENTE_CARTAO": "N",
@@ -55,7 +65,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/334"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbd8"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbd8"
+        },
         "COD": "180",
         "NOME": "ÁGUA VERDE/ ABRANCHES",
         "SOMENTE_CARTAO": "N",
@@ -66,7 +78,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/180"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbd9"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbd9"
+        },
         "COD": "265",
         "NOME": "AHÚ / LOS ANGELES",
         "SOMENTE_CARTAO": "S",
@@ -77,7 +91,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/265"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbda"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbda"
+        },
         "COD": "560",
         "NOME": "ALFERES POLI",
         "SOMENTE_CARTAO": "S",
@@ -88,7 +104,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/560"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbdb"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbdb"
+        },
         "COD": "232",
         "NOME": "ALIANÇA",
         "SOMENTE_CARTAO": "N",
@@ -99,7 +117,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/232"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbdc"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbdc"
+        },
         "COD": "629",
         "NOME": "ALTO BOQUEIRÃO",
         "SOMENTE_CARTAO": "N",
@@ -110,7 +130,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/629"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbdd"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbdd"
+        },
         "COD": "373",
         "NOME": "ALTO TARUMÃ",
         "SOMENTE_CARTAO": "N",
@@ -121,7 +143,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/373"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbde"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbde"
+        },
         "COD": "245",
         "NOME": "ANITA GARIBALDI",
         "SOMENTE_CARTAO": "N",
@@ -132,7 +156,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/245"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbdf"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbdf"
+        },
         "COD": "311",
         "NOME": "ARAGUAIA",
         "SOMENTE_CARTAO": "F",
@@ -143,7 +169,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/311"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbe0"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbe0"
+        },
         "COD": "823",
         "NOME": "AUGUSTA",
         "SOMENTE_CARTAO": "S",
@@ -154,7 +182,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/823"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbe1"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbe1"
+        },
         "COD": "820",
         "NOME": "AUGUSTA/V. MARQUETO",
         "SOMENTE_CARTAO": "N",
@@ -165,7 +195,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/820"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbe2"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbe2"
+        },
         "COD": "361",
         "NOME": "AUGUSTO STRESSER",
         "SOMENTE_CARTAO": "S",
@@ -176,7 +208,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/361"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbe3"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbe3"
+        },
         "COD": "342",
         "NOME": "B. ALTO / BOA VISTA",
         "SOMENTE_CARTAO": "N",
@@ -187,7 +221,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/342"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbe4"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbe4"
+        },
         "COD": "341",
         "NOME": "B. ALTO / STA. CÂNDIDA",
         "SOMENTE_CARTAO": "N",
@@ -198,7 +234,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/341"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbe5"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbe5"
+        },
         "COD": "307",
         "NOME": "B. ALTO / STA. FELICIDADE",
         "SOMENTE_CARTAO": "N",
@@ -209,7 +247,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/307"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbe6"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbe6"
+        },
         "COD": "506",
         "NOME": "BAIRRO NOVO",
         "SOMENTE_CARTAO": "N",
@@ -220,7 +260,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/506"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbe7"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbe7"
+        },
         "COD": "541",
         "NOME": "BAIRRO NOVO A",
         "SOMENTE_CARTAO": "N",
@@ -231,7 +273,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/541"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbe8"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbe8"
+        },
         "COD": "542",
         "NOME": "BAIRRO NOVO B",
         "SOMENTE_CARTAO": "N",
@@ -242,7 +286,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/542"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbe9"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbe9"
+        },
         "COD": "524",
         "NOME": "BAIRRO NOVO B/C",
         "SOMENTE_CARTAO": "N",
@@ -253,7 +299,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/524"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbea"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbea"
+        },
         "COD": "547",
         "NOME": "BAIRRO NOVO C",
         "SOMENTE_CARTAO": "N",
@@ -264,7 +312,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/547"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbeb"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbeb"
+        },
         "COD": "231",
         "NOME": "BANESTADO / CALIFÓRNIA",
         "SOMENTE_CARTAO": "N",
@@ -275,7 +325,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/231"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbec"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbec"
+        },
         "COD": "205",
         "NOME": "BARREIRINHA",
         "SOMENTE_CARTAO": "N",
@@ -286,7 +338,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/205"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbed"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbed"
+        },
         "COD": "256",
         "NOME": "BARREIRINHA/GUADALUPE",
         "SOMENTE_CARTAO": "N",
@@ -297,7 +351,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/256"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbee"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbee"
+        },
         "COD": "875",
         "NOME": "BIGORRILHO",
         "SOMENTE_CARTAO": "S",
@@ -308,7 +364,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/875"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbef"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbef"
+        },
         "COD": "225",
         "NOME": "BOA VISTA / BARREIRINHA",
         "SOMENTE_CARTAO": "N",
@@ -319,7 +377,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/225"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbf0"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbf0"
+        },
         "COD": "201",
         "NOME": "BOM RETIRO / CABRAL",
         "SOMENTE_CARTAO": "N",
@@ -330,7 +390,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/201"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbf1"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbf1"
+        },
         "COD": "175",
         "NOME": "BOM RETIRO / PUC",
         "SOMENTE_CARTAO": "F",
@@ -341,7 +403,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/175"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbf2"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbf2"
+        },
         "COD": "503",
         "NOME": "BOQUEIRÃO",
         "SOMENTE_CARTAO": "N",
@@ -352,7 +416,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/503"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbf3"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbf3"
+        },
         "COD": "505",
         "NOME": "BOQUEIRÃO / C. CÍVICO",
         "SOMENTE_CARTAO": "N",
@@ -363,7 +429,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/505"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbf4"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbf4"
+        },
         "COD": "540",
         "NOME": "BOQUEIRAO / MONDELEZ",
         "SOMENTE_CARTAO": "N",
@@ -374,7 +442,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/540"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbf5"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbf5"
+        },
         "COD": "528",
         "NOME": "BOQUEIRÃO/PINHEIRINHO",
         "SOMENTE_CARTAO": "N",
@@ -385,7 +455,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/528"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbf6"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbf6"
+        },
         "COD": "627",
         "NOME": "BOSCH",
         "SOMENTE_CARTAO": "N",
@@ -396,7 +468,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/627"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbf7"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbf7"
+        },
         "COD": "170",
         "NOME": "BRACATINGA",
         "SOMENTE_CARTAO": "N",
@@ -407,7 +481,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/170"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbf8"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbf8"
+        },
         "COD": "913",
         "NOME": "BUTIATUVINHA",
         "SOMENTE_CARTAO": "S",
@@ -418,7 +494,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/913"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbf9"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbf9"
+        },
         "COD": "948",
         "NOME": "BUTIATUVINHA/ OURO VERDE",
         "SOMENTE_CARTAO": "S",
@@ -429,7 +507,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/948"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbfa"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbfa"
+        },
         "COD": "516",
         "NOME": "C. BELEM / S. FILHO",
         "SOMENTE_CARTAO": "S",
@@ -440,7 +520,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/516"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbfb"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbfb"
+        },
         "COD": "828",
         "NOME": "C. COMPRIDO / C. RASO",
         "SOMENTE_CARTAO": "N",
@@ -451,7 +533,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/828"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbfc"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbfc"
+        },
         "COD": "826",
         "NOME": "C. COMPRIDO / CIC",
         "SOMENTE_CARTAO": "N",
@@ -462,7 +546,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/826"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbfd"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbfd"
+        },
         "COD": "393",
         "NOME": "C. IMBUIA / PQ. BARIGUI",
         "SOMENTE_CARTAO": "S",
@@ -473,7 +559,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/393"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbfe"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbfe"
+        },
         "COD": "150",
         "NOME": "C. MÚSICA / V. ALEGRE",
         "SOMENTE_CARTAO": "S",
@@ -484,7 +572,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/150"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bbff"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bbff"
+        },
         "COD": "027",
         "NOME": "C. RASO / C. DO SIQUEIRA",
         "SOMENTE_CARTAO": "N",
@@ -492,7 +582,9 @@
         "NOME_COR": "VERDE"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc00"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc00"
+        },
         "COD": "658",
         "NOME": "C. RASO / CAIUÁ",
         "SOMENTE_CARTAO": "N",
@@ -503,7 +595,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/658"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc01"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc01"
+        },
         "COD": "024",
         "NOME": "C. RASO / CAMP. SIQUEIRA",
         "SOMENTE_CARTAO": "N",
@@ -511,7 +605,9 @@
         "NOME_COR": "PRATA"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc02"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc02"
+        },
         "COD": "202",
         "NOME": "CABRAL / C.RASO",
         "SOMENTE_CARTAO": "N",
@@ -522,7 +618,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/202 "
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc03"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc03"
+        },
         "COD": "207",
         "NOME": "CABRAL / OSÓRIO",
         "SOMENTE_CARTAO": "N",
@@ -533,7 +631,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/207"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc04"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc04"
+        },
         "COD": "216",
         "NOME": "CABRAL / PORTÃO",
         "SOMENTE_CARTAO": "N",
@@ -544,7 +644,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/216"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc05"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc05"
+        },
         "COD": "703",
         "NOME": "CAIUÁ",
         "SOMENTE_CARTAO": "N",
@@ -555,7 +657,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/703"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc06"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc06"
+        },
         "COD": "732",
         "NOME": "CAIUA / C.COMPRIDO",
         "SOMENTE_CARTAO": "N",
@@ -566,7 +670,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/732"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc07"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc07"
+        },
         "COD": "702",
         "NOME": "CAIUA/CACHOEIRA",
         "SOMENTE_CARTAO": "N",
@@ -577,7 +683,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/702"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc08"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc08"
+        },
         "COD": "706",
         "NOME": "CAIUA/FAZ/CENTRO",
         "SOMENTE_CARTAO": "N",
@@ -588,7 +696,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/706"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc09"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc09"
+        },
         "COD": "386",
         "NOME": "CAJURU",
         "SOMENTE_CARTAO": "S",
@@ -599,7 +709,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/386"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc0a"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc0a"
+        },
         "COD": "322",
         "NOME": "CAMARGO",
         "SOMENTE_CARTAO": "N",
@@ -610,7 +722,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/322"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc0b"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc0b"
+        },
         "COD": "801",
         "NOME": "CAMP. SIQUEIRA / BATEL",
         "SOMENTE_CARTAO": "N",
@@ -621,7 +735,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/801"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc0c"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc0c"
+        },
         "COD": "816",
         "NOME": "CAMP. SIQUEIRA / STA.FELICIDADE",
         "SOMENTE_CARTAO": "N",
@@ -632,7 +748,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/816"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc0d"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc0d"
+        },
         "COD": "654",
         "NOME": "CAMPO ALEGRE",
         "SOMENTE_CARTAO": "N",
@@ -643,7 +761,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/654"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc0e"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc0e"
+        },
         "COD": "475",
         "NOME": "CANAL BELÉM",
         "SOMENTE_CARTAO": "N",
@@ -654,7 +774,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/475"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc0f"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc0f"
+        },
         "COD": "628",
         "NOME": "CARBOMAFRA",
         "SOMENTE_CARTAO": "N",
@@ -665,7 +787,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/628"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc10"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc10"
+        },
         "COD": "776",
         "NOME": "CARMELA DUTRA",
         "SOMENTE_CARTAO": "N",
@@ -676,7 +800,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/776"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc11"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc11"
+        },
         "COD": "668",
         "NOME": "CASA DE CUSTÓDIA",
         "SOMENTE_CARTAO": "N",
@@ -687,7 +813,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/668"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc12"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc12"
+        },
         "COD": "224",
         "NOME": "CASSIOPÉIA",
         "SOMENTE_CARTAO": "S",
@@ -698,7 +826,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/224"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc13"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc13"
+        },
         "COD": "659",
         "NOME": "CAXIMBA / OLARIA",
         "SOMENTE_CARTAO": "N",
@@ -709,7 +839,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/659"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc14"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc14"
+        },
         "COD": "305",
         "NOME": "CENTENÁRIO",
         "SOMENTE_CARTAO": "N",
@@ -720,7 +852,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/305"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc15"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc15"
+        },
         "COD": "335",
         "NOME": "CENTENÁRIO / BOQUEIRÃO",
         "SOMENTE_CARTAO": "N",
@@ -731,7 +865,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/335"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc16"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc16"
+        },
         "COD": "303",
         "NOME": "CENTENÁRIO / C. COMPRIDO",
         "SOMENTE_CARTAO": "N",
@@ -742,7 +878,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/303"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc17"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc17"
+        },
         "COD": "338",
         "NOME": "CENTENÁRIO / HAUER",
         "SOMENTE_CARTAO": "N",
@@ -753,7 +891,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/338"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc18"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc18"
+        },
         "COD": "302",
         "NOME": "CENTENÁRIO / RUI BARBOSA",
         "SOMENTE_CARTAO": "N",
@@ -764,7 +904,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/302"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc19"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc19"
+        },
         "COD": "469",
         "NOME": "CENTRO POLITÉCNICO",
         "SOMENTE_CARTAO": "N",
@@ -775,7 +917,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/469"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc1a"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc1a"
+        },
         "COD": "X32",
         "NOME": "CIC / CAPAO RASO",
         "SOMENTE_CARTAO": "N",
@@ -786,7 +930,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc1b"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc1b"
+        },
         "COD": "210",
         "NOME": "CIC/CABRAL",
         "SOMENTE_CARTAO": "N",
@@ -797,7 +943,9 @@
         "URL_URBS": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/210"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc1c"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc1c"
+        },
         "COD": "002",
         "NOME": "CIRCULAR CENTRO (ANTI-HORÁRIO)",
         "SOMENTE_CARTAO": "S",
@@ -805,7 +953,9 @@
         "NOME_COR": "BRANCA"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc1d"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc1d"
+        },
         "COD": "001",
         "NOME": "CIRCULAR CENTRO (HORÁRIO)",
         "SOMENTE_CARTAO": "S",
@@ -813,7 +963,9 @@
         "NOME_COR": "BRANCA"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc1e"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc1e"
+        },
         "COD": "602",
         "NOME": "CIRCULAR SUL (ANTI-HORÁRIO)",
         "SOMENTE_CARTAO": "N",
@@ -824,7 +976,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc1f"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc1f"
+        },
         "COD": "502",
         "NOME": "CIRCULAR SUL (HORÁRIO)",
         "SOMENTE_CARTAO": "N",
@@ -835,7 +989,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc20"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc20"
+        },
         "COD": "211",
         "NOME": "COLINA VERDE",
         "SOMENTE_CARTAO": "F",
@@ -846,7 +1002,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc21"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc21"
+        },
         "COD": "607",
         "NOME": "COLOMBO / CIC",
         "SOMENTE_CARTAO": "N",
@@ -857,7 +1015,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc22"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc22"
+        },
         "COD": "778",
         "NOME": "COTOLENGO",
         "SOMENTE_CARTAO": "N",
@@ -868,7 +1028,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc23"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc23"
+        },
         "COD": "385",
         "NOME": "CRISTO REI",
         "SOMENTE_CARTAO": "S",
@@ -879,7 +1041,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc24"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc24"
+        },
         "COD": "681",
         "NOME": "DALAGASSA",
         "SOMENTE_CARTAO": "N",
@@ -890,7 +1054,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc25"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc25"
+        },
         "COD": "340",
         "NOME": "DETRAN / B. ALTO",
         "SOMENTE_CARTAO": "N",
@@ -901,7 +1067,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc26"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc26"
+        },
         "COD": "380",
         "NOME": "DETRAN / VIC. MACHADO",
         "SOMENTE_CARTAO": "N",
@@ -912,7 +1080,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc27"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc27"
+        },
         "COD": "662",
         "NOME": "DOM ÁTICO",
         "SOMENTE_CARTAO": "S",
@@ -923,7 +1093,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc28"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc28"
+        },
         "COD": "533",
         "NOME": "E. VERÍSSIMO / PANTANAL",
         "SOMENTE_CARTAO": "N",
@@ -934,7 +1106,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc29"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc29"
+        },
         "COD": "465",
         "NOME": "ERASTO GAERTNER",
         "SOMENTE_CARTAO": "N",
@@ -945,7 +1119,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc2a"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc2a"
+        },
         "COD": "X12",
         "NOME": "ESPECIAL BOQUEIRAO",
         "SOMENTE_CARTAO": "N",
@@ -956,7 +1132,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc2b"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc2b"
+        },
         "COD": "X19",
         "NOME": "ESPECIAL HASDRUBAL BELLEGARD",
         "SOMENTE_CARTAO": "N",
@@ -967,7 +1145,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc2c"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc2c"
+        },
         "COD": "266",
         "NOME": "ESTRIBO AHÚ",
         "SOMENTE_CARTAO": "S",
@@ -978,7 +1158,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc2d"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc2d"
+        },
         "COD": "466",
         "NOME": "ESTUDANTES",
         "SOMENTE_CARTAO": "S",
@@ -989,7 +1171,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc2e"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc2e"
+        },
         "COD": "275",
         "NOME": "F. NORONHA / LARANJEIRAS",
         "SOMENTE_CARTAO": "N",
@@ -1000,7 +1184,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc2f"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc2f"
+        },
         "COD": "621",
         "NOME": "FANNY",
         "SOMENTE_CARTAO": "N",
@@ -1011,7 +1197,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc30"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc30"
+        },
         "COD": "701",
         "NOME": "FAZENDINHA",
         "SOMENTE_CARTAO": "N",
@@ -1022,7 +1210,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc31"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc31"
+        },
         "COD": "720",
         "NOME": "FAZENDINHA / C. COMPRIDO",
         "SOMENTE_CARTAO": "N",
@@ -1033,7 +1223,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc32"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc32"
+        },
         "COD": "831",
         "NOME": "FAZENDINHA / C.RASO",
         "SOMENTE_CARTAO": "N",
@@ -1044,7 +1236,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc33"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc33"
+        },
         "COD": "611",
         "NOME": "FAZENDINHA / PORTÃO",
         "SOMENTE_CARTAO": "N",
@@ -1055,7 +1249,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc34"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc34"
+        },
         "COD": "614",
         "NOME": "FAZENDINHA / PUC",
         "SOMENTE_CARTAO": "N",
@@ -1066,7 +1262,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc35"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc35"
+        },
         "COD": "719",
         "NOME": "FAZENDINHA/CAIUÁ-FORUM",
         "SOMENTE_CARTAO": "N",
@@ -1077,7 +1275,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc36"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc36"
+        },
         "COD": "270",
         "NOME": "FERNANDO DE NORONHA",
         "SOMENTE_CARTAO": "S",
@@ -1088,7 +1288,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc37"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc37"
+        },
         "COD": "821",
         "NOME": "FERNÃO DIAS",
         "SOMENTE_CARTAO": "F",
@@ -1099,7 +1301,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc38"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc38"
+        },
         "COD": "673",
         "NOME": "FORMOSA",
         "SOMENTE_CARTAO": "S",
@@ -1110,7 +1314,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc39"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc39"
+        },
         "COD": "716",
         "NOME": "FORUM/B.VISTA",
         "SOMENTE_CARTAO": "N",
@@ -1121,7 +1327,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc3a"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc3a"
+        },
         "COD": "167",
         "NOME": "FREDOLIN WOLF",
         "SOMENTE_CARTAO": "S",
@@ -1132,7 +1340,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc3b"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc3b"
+        },
         "COD": "639",
         "NOME": "FUTURAMA",
         "SOMENTE_CARTAO": "N",
@@ -1143,7 +1353,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc3c"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc3c"
+        },
         "COD": "683",
         "NOME": "FUTURAMA / S. CERCADO",
         "SOMENTE_CARTAO": "N",
@@ -1154,7 +1366,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc3d"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc3d"
+        },
         "COD": "822",
         "NOME": "GABINETO",
         "SOMENTE_CARTAO": "N",
@@ -1165,7 +1379,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc3e"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc3e"
+        },
         "COD": "642",
         "NOME": "GANCHINHO",
         "SOMENTE_CARTAO": "N",
@@ -1176,7 +1392,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc3f"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc3f"
+        },
         "COD": "625",
         "NOME": "GRAMADOS",
         "SOMENTE_CARTAO": "N",
@@ -1187,7 +1405,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc40"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc40"
+        },
         "COD": "470",
         "NOME": "GUABIROTUBA",
         "SOMENTE_CARTAO": "S",
@@ -1198,7 +1418,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc41"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc41"
+        },
         "COD": "561",
         "NOME": "GUILHERMINA",
         "SOMENTE_CARTAO": "N",
@@ -1209,7 +1431,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc42"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc42"
+        },
         "COD": "513",
         "NOME": "HAUER / BOQUEIRÃO",
         "SOMENTE_CARTAO": "N",
@@ -1220,7 +1444,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc43"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc43"
+        },
         "COD": "371",
         "NOME": "HIGIENÓPOLIS",
         "SOMENTE_CARTAO": "N",
@@ -1231,7 +1457,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc44"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc44"
+        },
         "COD": "374",
         "NOME": "HUGO LANGE",
         "SOMENTE_CARTAO": "N",
@@ -1242,7 +1470,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc45"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc45"
+        },
         "COD": "523",
         "NOME": "IGUAPE I",
         "SOMENTE_CARTAO": "N",
@@ -1253,7 +1483,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc46"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc46"
+        },
         "COD": "515",
         "NOME": "IGUAPE II",
         "SOMENTE_CARTAO": "N",
@@ -1264,7 +1496,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc47"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc47"
+        },
         "COD": "023",
         "NOME": "INTER 2 ( ANTI-HORÁRIO)",
         "SOMENTE_CARTAO": "N",
@@ -1272,7 +1506,9 @@
         "NOME_COR": "PRATA"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc48"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc48"
+        },
         "COD": "022",
         "NOME": "INTER 2 (HORÁRIO)",
         "SOMENTE_CARTAO": "N",
@@ -1280,7 +1516,9 @@
         "NOME_COR": "PRATA"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc49"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc49"
+        },
         "COD": "011",
         "NOME": "INTERBAIRROS I (ANTI-HORÁRIO)",
         "SOMENTE_CARTAO": "N",
@@ -1288,7 +1526,9 @@
         "NOME_COR": "VERDE"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc4a"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc4a"
+        },
         "COD": "010",
         "NOME": "INTERBAIRROS I (HORÁRIO)",
         "SOMENTE_CARTAO": "N",
@@ -1296,7 +1536,9 @@
         "NOME_COR": "VERDE"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc4b"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc4b"
+        },
         "COD": "021",
         "NOME": "INTERBAIRROS II (ANTI-HORÁRIO)",
         "SOMENTE_CARTAO": "N",
@@ -1304,7 +1546,9 @@
         "NOME_COR": "VERDE"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc4c"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc4c"
+        },
         "COD": "020",
         "NOME": "INTERBAIRROS II (HORÁRIO)",
         "SOMENTE_CARTAO": "N",
@@ -1312,7 +1556,9 @@
         "NOME_COR": "VERDE"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc4d"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc4d"
+        },
         "COD": "030",
         "NOME": "INTERBAIRROS III",
         "SOMENTE_CARTAO": "N",
@@ -1320,7 +1566,9 @@
         "NOME_COR": "VERDE"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc4e"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc4e"
+        },
         "COD": "040",
         "NOME": "INTERBAIRROS IV",
         "SOMENTE_CARTAO": "N",
@@ -1328,7 +1576,9 @@
         "NOME_COR": "VERDE"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc4f"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc4f"
+        },
         "COD": "050",
         "NOME": "INTERBAIRROS V",
         "SOMENTE_CARTAO": "N",
@@ -1336,7 +1586,9 @@
         "NOME_COR": "VERDE"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc50"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc50"
+        },
         "COD": "060",
         "NOME": "INTERBAIRROS VI",
         "SOMENTE_CARTAO": "N",
@@ -1344,7 +1596,9 @@
         "NOME_COR": "VERDE"
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc51"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc51"
+        },
         "COD": "378",
         "NOME": "INTER-HOSPITAIS",
         "SOMENTE_CARTAO": "S",
@@ -1355,7 +1609,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc52"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc52"
+        },
         "COD": "512",
         "NOME": "ITAMARATI",
         "SOMENTE_CARTAO": "N",
@@ -1366,7 +1622,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc53"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc53"
+        },
         "COD": "711",
         "NOME": "ITATIAIA",
         "SOMENTE_CARTAO": "N",
@@ -1377,7 +1635,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc54"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc54"
+        },
         "COD": "366",
         "NOME": "ITUPAVA / HOSP. MILITAR",
         "SOMENTE_CARTAO": "S",
@@ -1388,7 +1648,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc55"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc55"
+        },
         "COD": "468",
         "NOME": "JD. CENTAURO",
         "SOMENTE_CARTAO": "N",
@@ -1399,7 +1661,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc56"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc56"
+        },
         "COD": "183",
         "NOME": "JD. CHAPARRAL",
         "SOMENTE_CARTAO": "N",
@@ -1410,7 +1674,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc57"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc57"
+        },
         "COD": "655",
         "NOME": "JD. DA ORDEM",
         "SOMENTE_CARTAO": "N",
@@ -1421,7 +1687,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc58"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc58"
+        },
         "COD": "244",
         "NOME": "JD. DO ARROIO",
         "SOMENTE_CARTAO": "S",
@@ -1432,7 +1700,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc59"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc59"
+        },
         "COD": "865",
         "NOME": "JD. ESPLANADA",
         "SOMENTE_CARTAO": "S",
@@ -1443,7 +1713,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc5a"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc5a"
+        },
         "COD": "712",
         "NOME": "JD. INDEPENDÊNCIA / CIC",
         "SOMENTE_CARTAO": "N",
@@ -1454,7 +1726,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc5b"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc5b"
+        },
         "COD": "917",
         "NOME": "JD. IPÊ",
         "SOMENTE_CARTAO": "F",
@@ -1465,7 +1739,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc5c"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc5c"
+        },
         "COD": "972",
         "NOME": "JD. ITÁLIA",
         "SOMENTE_CARTAO": "F",
@@ -1476,7 +1752,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc5d"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc5d"
+        },
         "COD": "474",
         "NOME": "JD. ITIBERÊ",
         "SOMENTE_CARTAO": "N",
@@ -1487,7 +1765,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc5e"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc5e"
+        },
         "COD": "169",
         "NOME": "JD. KOSMOS",
         "SOMENTE_CARTAO": "F",
@@ -1498,7 +1778,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc5f"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc5f"
+        },
         "COD": "617",
         "NOME": "JD. LUDOVICA",
         "SOMENTE_CARTAO": "N",
@@ -1509,7 +1791,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc60"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc60"
+        },
         "COD": "160",
         "NOME": "JD. MERCÊS / GUANABARA",
         "SOMENTE_CARTAO": "N",
@@ -1520,7 +1804,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc61"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc61"
+        },
         "COD": "532",
         "NOME": "JD. PARANAENSE",
         "SOMENTE_CARTAO": "N",
@@ -1531,7 +1817,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc62"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc62"
+        },
         "COD": "365",
         "NOME": "JD. SOCIAL / BATEL",
         "SOMENTE_CARTAO": "S",
@@ -1542,7 +1830,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc63"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc63"
+        },
         "COD": "912",
         "NOME": "JOSÉ CULPI",
         "SOMENTE_CARTAO": "S",
@@ -1553,7 +1843,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc64"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc64"
+        },
         "COD": "938",
         "NOME": "JOSÉ CULPI / VENEZA",
         "SOMENTE_CARTAO": "S",
@@ -1564,7 +1856,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc65"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc65"
+        },
         "COD": "967",
         "NOME": "JÚLIO GRAF",
         "SOMENTE_CARTAO": "S",
@@ -1575,7 +1869,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc66"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc66"
+        },
         "COD": "285",
         "NOME": "JUVEVÊ / ÁGUA VERDE",
         "SOMENTE_CARTAO": "S",
@@ -1586,7 +1882,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc67"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc67"
+        },
         "COD": "656",
         "NOME": "KAMYR",
         "SOMENTE_CARTAO": "N",
@@ -1597,7 +1895,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc68"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc68"
+        },
         "COD": "600",
         "NOME": "KAMYR/QUARTEL GENERAL",
         "SOMENTE_CARTAO": "N",
@@ -1608,7 +1908,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc69"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc69"
+        },
         "COD": "271",
         "NOME": "LARANJEIRAS",
         "SOMENTE_CARTAO": "S",
@@ -1619,7 +1921,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc6a"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc6a"
+        },
         "COD": "500",
         "NOME": "LIGEIRÃO BOQUEIRÃO",
         "SOMENTE_CARTAO": "N",
@@ -1630,7 +1934,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc6b"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc6b"
+        },
         "COD": "550",
         "NOME": "LIGEIRÃO PINHEIRINHO / C. GOMES",
         "SOMENTE_CARTAO": "N",
@@ -1641,7 +1947,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc6c"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc6c"
+        },
         "COD": "200",
         "NOME": "LIGEIRÃO STA.CÂNDIDA / PÇA.DO JAPÃO",
         "SOMENTE_CARTAO": "N",
@@ -1652,7 +1960,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc6d"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc6d"
+        },
         "COD": "661",
         "NOME": "LINDÓIA",
         "SOMENTE_CARTAO": "S",
@@ -1663,7 +1973,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc6e"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc6e"
+        },
         "COD": "635",
         "NOME": "LONDRINA",
         "SOMENTE_CARTAO": "N",
@@ -1674,7 +1986,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc6f"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc6f"
+        },
         "COD": "641",
         "NOME": "LUIZ NICHELE",
         "SOMENTE_CARTAO": "N",
@@ -1685,7 +1999,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc70"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc70"
+        },
         "COD": "189",
         "NOME": "MAD. ABRANCHES",
         "SOMENTE_CARTAO": "N",
@@ -1696,7 +2012,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc71"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc71"
+        },
         "COD": "549",
         "NOME": "MAD. BAIRRO NOVO",
         "SOMENTE_CARTAO": "N",
@@ -1707,7 +2025,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc72"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc72"
+        },
         "COD": "509",
         "NOME": "MAD. BOQUEIRÃO",
         "SOMENTE_CARTAO": "N",
@@ -1718,7 +2038,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc73"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc73"
+        },
         "COD": "789",
         "NOME": "MAD. CAIUÁ",
         "SOMENTE_CARTAO": "N",
@@ -1729,7 +2051,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc74"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc74"
+        },
         "COD": "809",
         "NOME": "MAD. CAMPO COMPRIDO",
         "SOMENTE_CARTAO": "S",
@@ -1740,7 +2064,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc75"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc75"
+        },
         "COD": "309",
         "NOME": "MAD. CENTENÁRIO",
         "SOMENTE_CARTAO": "N",
@@ -1751,7 +2077,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc76"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc76"
+        },
         "COD": "308",
         "NOME": "MAD. CENTENÁRIO / RUI BARBOSA",
         "SOMENTE_CARTAO": "N",
@@ -1762,7 +2090,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc77"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc77"
+        },
         "COD": "609",
         "NOME": "MAD. CIC",
         "SOMENTE_CARTAO": "N",
@@ -1773,7 +2103,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc78"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc78"
+        },
         "COD": "229",
         "NOME": "MAD. PENHA / F. NORONHA",
         "SOMENTE_CARTAO": "S",
@@ -1784,7 +2116,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc79"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc79"
+        },
         "COD": "489",
         "NOME": "MAD. PETRÓPOLIS / SOLITUDE",
         "SOMENTE_CARTAO": "N",
@@ -1795,7 +2129,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc7a"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc7a"
+        },
         "COD": "188",
         "NOME": "MAD. PILARZINHO / UBERABA",
         "SOMENTE_CARTAO": "N",
@@ -1806,7 +2142,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc7b"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc7b"
+        },
         "COD": "608",
         "NOME": "MAD. PINHEIRINHO",
         "SOMENTE_CARTAO": "N",
@@ -1817,7 +2155,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc7c"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc7c"
+        },
         "COD": "209",
         "NOME": "MAD. S. CÂNDIDA / C. RASO",
         "SOMENTE_CARTAO": "S",
@@ -1828,7 +2168,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc7d"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc7d"
+        },
         "COD": "519",
         "NOME": "MAD. S. FRANCISCO / IGUAPE",
         "SOMENTE_CARTAO": "N",
@@ -1839,7 +2181,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc7e"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc7e"
+        },
         "COD": "689",
         "NOME": "MAD. S. PEDRO / R. NEGRO",
         "SOMENTE_CARTAO": "N",
@@ -1850,7 +2194,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc7f"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc7f"
+        },
         "COD": "889",
         "NOME": "MAD. SÃO BRÁZ",
         "SOMENTE_CARTAO": "N",
@@ -1861,7 +2207,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc80"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc80"
+        },
         "COD": "989",
         "NOME": "MAD. STA. FELICIDADE",
         "SOMENTE_CARTAO": "N",
@@ -1872,7 +2220,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc81"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc81"
+        },
         "COD": "389",
         "NOME": "MAD. TARUMÃ / AUGUSTA",
         "SOMENTE_CARTAO": "N",
@@ -1883,7 +2233,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc82"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc82"
+        },
         "COD": "679",
         "NOME": "MAD. TATUQUARA",
         "SOMENTE_CARTAO": "N",
@@ -1894,7 +2246,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc83"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc83"
+        },
         "COD": "788",
         "NOME": "MAD. V. VELHA",
         "SOMENTE_CARTAO": "N",
@@ -1905,7 +2259,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc84"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc84"
+        },
         "COD": "260",
         "NOME": "MAL. HERMES / STA. EFIGÊNIA",
         "SOMENTE_CARTAO": "S",
@@ -1916,7 +2272,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc85"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc85"
+        },
         "COD": "633",
         "NOME": "MARIA ANGÉLICA",
         "SOMENTE_CARTAO": "N",
@@ -1927,7 +2285,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc86"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc86"
+        },
         "COD": "522",
         "NOME": "MARINGÁ",
         "SOMENTE_CARTAO": "N",
@@ -1938,7 +2298,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc87"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc87"
+        },
         "COD": "721",
         "NOME": "MÁRIO JORGE",
         "SOMENTE_CARTAO": "N",
@@ -1949,7 +2311,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc88"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc88"
+        },
         "COD": "181",
         "NOME": "MATEUS LEME",
         "SOMENTE_CARTAO": "S",
@@ -1960,7 +2324,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc89"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc89"
+        },
         "COD": "594",
         "NOME": "MENONITAS",
         "SOMENTE_CARTAO": "N",
@@ -1971,7 +2337,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc8a"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc8a"
+        },
         "COD": "331",
         "NOME": "MERCÚRIO",
         "SOMENTE_CARTAO": "S",
@@ -1982,7 +2350,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc8b"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc8b"
+        },
         "COD": "812",
         "NOME": "MONTANA",
         "SOMENTE_CARTAO": "N",
@@ -1993,7 +2363,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc8c"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc8c"
+        },
         "COD": "814",
         "NOME": "MOSSUNGUÊ",
         "SOMENTE_CARTAO": "S",
@@ -2004,7 +2376,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc8d"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc8d"
+        },
         "COD": "521",
         "NOME": "NIVALDO BRAGA",
         "SOMENTE_CARTAO": "N",
@@ -2015,7 +2389,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc8e"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc8e"
+        },
         "COD": "360",
         "NOME": "NOVENA",
         "SOMENTE_CARTAO": "N",
@@ -2026,7 +2402,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc8f"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc8f"
+        },
         "COD": "666",
         "NOME": "NOVO MUNDO",
         "SOMENTE_CARTAO": "S",
@@ -2037,7 +2415,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc90"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc90"
+        },
         "COD": "674",
         "NOME": "NSA. SRA. DA LUZ",
         "SOMENTE_CARTAO": "N",
@@ -2048,7 +2428,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc91"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc91"
+        },
         "COD": "280",
         "NOME": "NSA.SRA.DE NAZARÉ",
         "SOMENTE_CARTAO": "S",
@@ -2059,7 +2441,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc92"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc92"
+        },
         "COD": "233",
         "NOME": "OLARIA",
         "SOMENTE_CARTAO": "N",
@@ -2070,7 +2454,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc93"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc93"
+        },
         "COD": "535",
         "NOME": "OSTERNACK / BOQUEIRÃO",
         "SOMENTE_CARTAO": "N",
@@ -2081,7 +2467,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc94"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc94"
+        },
         "COD": "548",
         "NOME": "OSTERNACK / S. CERCADO",
         "SOMENTE_CARTAO": "N",
@@ -2092,7 +2480,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc95"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc95"
+        },
         "COD": "520",
         "NOME": "OSTERNACK / S. CERCADO L.D.",
         "SOMENTE_CARTAO": "N",
@@ -2103,7 +2493,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc96"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc96"
+        },
         "COD": "915",
         "NOME": "OURO VERDE (VIA VL.BÁDIA)",
         "SOMENTE_CARTAO": "S",
@@ -2114,7 +2506,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc97"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc97"
+        },
         "COD": "272",
         "NOME": "PAINEIRAS",
         "SOMENTE_CARTAO": "S",
@@ -2125,7 +2519,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc98"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc98"
+        },
         "COD": "640",
         "NOME": "PALMEIRA",
         "SOMENTE_CARTAO": "N",
@@ -2136,7 +2532,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc99"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc99"
+        },
         "COD": "387",
         "NOME": "PALOTINOS",
         "SOMENTE_CARTAO": "S",
@@ -2147,7 +2545,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc9a"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc9a"
+        },
         "COD": "343",
         "NOME": "PARAÍSO",
         "SOMENTE_CARTAO": "S",
@@ -2158,7 +2558,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc9b"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc9b"
+        },
         "COD": "534",
         "NOME": "PARIGOT DE SOUZA",
         "SOMENTE_CARTAO": "N",
@@ -2169,7 +2571,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc9c"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc9c"
+        },
         "COD": "623",
         "NOME": "PARQUE INDUSTRIAL",
         "SOMENTE_CARTAO": "N",
@@ -2180,7 +2584,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc9d"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc9d"
+        },
         "COD": "176",
         "NOME": "PARQUE TANGUÁ",
         "SOMENTE_CARTAO": "S",
@@ -2191,7 +2597,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc9e"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc9e"
+        },
         "COD": "911",
         "NOME": "PASSAÚNA",
         "SOMENTE_CARTAO": "S",
@@ -2202,7 +2610,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bc9f"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bc9f"
+        },
         "COD": "928",
         "NOME": "PASSAÚNA / JD.IPÊ",
         "SOMENTE_CARTAO": "S",
@@ -2213,7 +2623,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bca0"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bca0"
+        },
         "COD": "462",
         "NOME": "PETRÓPOLIS",
         "SOMENTE_CARTAO": "N",
@@ -2224,7 +2636,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bca1"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bca1"
+        },
         "COD": "304",
         "NOME": "PINHAIS / C. COMPRIDO",
         "SOMENTE_CARTAO": "N",
@@ -2235,7 +2649,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bca2"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bca2"
+        },
         "COD": "638",
         "NOME": "PINHEIRINHO",
         "SOMENTE_CARTAO": "N",
@@ -2246,7 +2662,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bca3"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bca3"
+        },
         "COD": "644",
         "NOME": "PINHEIRINHO / CIC",
         "SOMENTE_CARTAO": "S",
@@ -2257,7 +2675,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bca4"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bca4"
+        },
         "COD": "688",
         "NOME": "PINHEIRINHO / ZOOLÓGICO",
         "SOMENTE_CARTAO": "N",
@@ -2268,7 +2688,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bca5"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bca5"
+        },
         "COD": "527",
         "NOME": "PINHEIRINHO/BOQUEIRAO",
         "SOMENTE_CARTAO": "N",
@@ -2279,7 +2701,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bca6"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bca6"
+        },
         "COD": "700",
         "NOME": "PINHEIRINHO/CABRAL",
         "SOMENTE_CARTAO": "N",
@@ -2290,7 +2714,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bca7"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bca7"
+        },
         "COD": "X35",
         "NOME": "PINHEIRINHO/PREFEITURA",
         "SOMENTE_CARTAO": "S",
@@ -2301,7 +2727,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bca8"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bca8"
+        },
         "COD": "603",
         "NOME": "PINHEIRINHO/RUI BARBOSA",
         "SOMENTE_CARTAO": "N",
@@ -2312,7 +2740,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bca9"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bca9"
+        },
         "COD": "916",
         "NOME": "PINHEIROS",
         "SOMENTE_CARTAO": "N",
@@ -2323,7 +2753,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcaa"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcaa"
+        },
         "COD": "631",
         "NOME": "PIRATINI / BR 476",
         "SOMENTE_CARTAO": "N",
@@ -2334,7 +2766,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcab"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcab"
+        },
         "COD": "649",
         "NOME": "PIRINEUS",
         "SOMENTE_CARTAO": "N",
@@ -2345,7 +2779,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcac"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcac"
+        },
         "COD": "646",
         "NOME": "POMPEIA/JANAINA",
         "SOMENTE_CARTAO": "N",
@@ -2356,7 +2792,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcad"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcad"
+        },
         "COD": "671",
         "NOME": "PORTÃO",
         "SOMENTE_CARTAO": "S",
@@ -2367,7 +2805,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcae"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcae"
+        },
         "COD": "612",
         "NOME": "PORTÃO / CIC",
         "SOMENTE_CARTAO": "N",
@@ -2378,7 +2818,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcaf"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcaf"
+        },
         "COD": "616",
         "NOME": "PORTAO / STA. BERNADETHE - L. VERDE",
         "SOMENTE_CARTAO": "S",
@@ -2389,7 +2831,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcb0"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcb0"
+        },
         "COD": "X20",
         "NOME": "PORTAO/SITIO CERCADO",
         "SOMENTE_CARTAO": "N",
@@ -2400,7 +2844,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcb1"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcb1"
+        },
         "COD": "718",
         "NOME": "PORTO BELO",
         "SOMENTE_CARTAO": "N",
@@ -2411,7 +2857,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcb2"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcb2"
+        },
         "COD": "171",
         "NOME": "PRIMAVERA",
         "SOMENTE_CARTAO": "N",
@@ -2422,7 +2870,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcb3"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcb3"
+        },
         "COD": "518",
         "NOME": "PUC/RODOFERROVIARIA",
         "SOMENTE_CARTAO": "N",
@@ -2433,7 +2883,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcb4"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcb4"
+        },
         "COD": "632",
         "NOME": "QUARTEL GENERAL",
         "SOMENTE_CARTAO": "S",
@@ -2444,7 +2896,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcb5"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcb5"
+        },
         "COD": "168",
         "NOME": "RAPOSO TAVARES",
         "SOMENTE_CARTAO": "F",
@@ -2455,7 +2909,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcb6"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcb6"
+        },
         "COD": "X36",
         "NOME": "REF. GUADALUPE / FAZENDINHA",
         "SOMENTE_CARTAO": "S",
@@ -2466,7 +2922,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcb7"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcb7"
+        },
         "COD": "X30",
         "NOME": "REFORÇO C.IMBUIA",
         "SOMENTE_CARTAO": "N",
@@ -2477,7 +2935,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcb8"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcb8"
+        },
         "COD": "X14",
         "NOME": "REFORÇO HAUER",
         "SOMENTE_CARTAO": "N",
@@ -2488,7 +2948,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcb9"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcb9"
+        },
         "COD": "X22",
         "NOME": "REFORÇO PORTÃO",
         "SOMENTE_CARTAO": "N",
@@ -2499,7 +2961,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcba"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcba"
+        },
         "COD": "815",
         "NOME": "REFORÇO TUIUTI",
         "SOMENTE_CARTAO": "N",
@@ -2510,7 +2974,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcbb"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcbb"
+        },
         "COD": "684",
         "NOME": "RIO BONITO",
         "SOMENTE_CARTAO": "N",
@@ -2521,7 +2987,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcbc"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcbc"
+        },
         "COD": "685",
         "NOME": "RIO BONITO / CIC",
         "SOMENTE_CARTAO": "N",
@@ -2532,7 +3000,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcbd"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcbd"
+        },
         "COD": "636",
         "NOME": "RIO NEGRO",
         "SOMENTE_CARTAO": "N",
@@ -2543,7 +3013,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcbe"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcbe"
+        },
         "COD": "827",
         "NOME": "RIVIERA",
         "SOMENTE_CARTAO": "F",
@@ -2554,7 +3026,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcbf"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcbf"
+        },
         "COD": "622",
         "NOME": "RONDON",
         "SOMENTE_CARTAO": "N",
@@ -2565,7 +3039,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcc0"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcc0"
+        },
         "COD": "164",
         "NOME": "R.PRADO/C.GOMES",
         "SOMENTE_CARTAO": "S",
@@ -2576,7 +3052,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcc1"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcc1"
+        },
         "COD": "370",
         "NOME": "RUA XV / BARIGUI",
         "SOMENTE_CARTAO": "N",
@@ -2587,7 +3065,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcc2"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcc2"
+        },
         "COD": "680",
         "NOME": "RURBANA",
         "SOMENTE_CARTAO": "N",
@@ -2598,7 +3078,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcc3"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcc3"
+        },
         "COD": "610",
         "NOME": "S. CERCADO / C. RASO",
         "SOMENTE_CARTAO": "N",
@@ -2609,7 +3091,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcc4"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcc4"
+        },
         "COD": "653",
         "NOME": "SABARÁ",
         "SOMENTE_CARTAO": "N",
@@ -2620,7 +3104,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcc5"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcc5"
+        },
         "COD": "375",
         "NOME": "SAGRADO CORAÇÃO",
         "SOMENTE_CARTAO": "N",
@@ -2631,7 +3117,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcc6"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcc6"
+        },
         "COD": "552",
         "NOME": "SAMBAQUI",
         "SOMENTE_CARTAO": "N",
@@ -2642,7 +3130,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcc7"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcc7"
+        },
         "COD": "236",
         "NOME": "SÃO BENEDITO",
         "SOMENTE_CARTAO": "S",
@@ -2653,7 +3143,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcc8"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcc8"
+        },
         "COD": "965",
         "NOME": "SÃO BERNARDO",
         "SOMENTE_CARTAO": "S",
@@ -2664,7 +3156,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcc9"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcc9"
+        },
         "COD": "870",
         "NOME": "SÃO BRAZ",
         "SOMENTE_CARTAO": "N",
@@ -2675,7 +3169,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcca"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcca"
+        },
         "COD": "511",
         "NOME": "SÃO FRANCISCO",
         "SOMENTE_CARTAO": "N",
@@ -2686,7 +3182,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bccb"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bccb"
+        },
         "COD": "213",
         "NOME": "SÃO JOÃO",
         "SOMENTE_CARTAO": "S",
@@ -2697,7 +3195,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bccc"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bccc"
+        },
         "COD": "670",
         "NOME": "SÃO JORGE",
         "SOMENTE_CARTAO": "S",
@@ -2708,7 +3208,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bccd"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bccd"
+        },
         "COD": "811",
         "NOME": "SATURNO",
         "SOMENTE_CARTAO": "N",
@@ -2719,7 +3221,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcce"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcce"
+        },
         "COD": "876",
         "NOME": "SAVÓIA",
         "SOMENTE_CARTAO": "N",
@@ -2730,7 +3234,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bccf"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bccf"
+        },
         "COD": "X11",
         "NOME": "SITIO CERCADO / C. RASO",
         "SOMENTE_CARTAO": "N",
@@ -2741,7 +3247,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcd0"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcd0"
+        },
         "COD": "508",
         "NOME": "SÍTIO CERCADO (ANTI-HORÁRIO)",
         "SOMENTE_CARTAO": "N",
@@ -2752,7 +3260,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcd1"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcd1"
+        },
         "COD": "507",
         "NOME": "SÍTIO CERCADO (HORÁRIO)",
         "SOMENTE_CARTAO": "N",
@@ -2763,7 +3273,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcd2"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcd2"
+        },
         "COD": "212",
         "NOME": "SOLAR",
         "SOMENTE_CARTAO": "S",
@@ -2774,7 +3286,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcd3"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcd3"
+        },
         "COD": "463",
         "NOME": "SOLITUDE",
         "SOMENTE_CARTAO": "N",
@@ -2785,7 +3299,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcd4"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcd4"
+        },
         "COD": "713",
         "NOME": "STA. AMÉLIA",
         "SOMENTE_CARTAO": "S",
@@ -2796,7 +3312,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcd5"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcd5"
+        },
         "COD": "461",
         "NOME": "STA. BARBARA",
         "SOMENTE_CARTAO": "S",
@@ -2807,7 +3325,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcd6"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcd6"
+        },
         "COD": "203",
         "NOME": "STA. CÂNDIDA / C. RASO",
         "SOMENTE_CARTAO": "N",
@@ -2818,7 +3338,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcd7"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcd7"
+        },
         "COD": "620",
         "NOME": "STA. CRUZ",
         "SOMENTE_CARTAO": "N",
@@ -2829,7 +3351,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcd8"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcd8"
+        },
         "COD": "901",
         "NOME": "STA. FELICIDADE",
         "SOMENTE_CARTAO": "N",
@@ -2840,7 +3364,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcd9"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcd9"
+        },
         "COD": "902",
         "NOME": "STA. FELICIDADE / PCA.TIRADENTES",
         "SOMENTE_CARTAO": "N",
@@ -2851,7 +3377,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcda"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcda"
+        },
         "COD": "924",
         "NOME": "STA. FELICIDADE / STA. CÂNDIDA",
         "SOMENTE_CARTAO": "N",
@@ -2862,7 +3390,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcdb"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcdb"
+        },
         "COD": "274",
         "NOME": "STA. GEMA",
         "SOMENTE_CARTAO": "S",
@@ -2873,7 +3403,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcdc"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcdc"
+        },
         "COD": "531",
         "NOME": "STA. INÊS",
         "SOMENTE_CARTAO": "N",
@@ -2884,7 +3416,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcdd"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcdd"
+        },
         "COD": "637",
         "NOME": "STA. JOANA",
         "SOMENTE_CARTAO": "N",
@@ -2895,7 +3429,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcde"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcde"
+        },
         "COD": "760",
         "NOME": "STA. QUITÉRIA",
         "SOMENTE_CARTAO": "S",
@@ -2906,7 +3442,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcdf"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcdf"
+        },
         "COD": "619",
         "NOME": "STA. RITA / CIC",
         "SOMENTE_CARTAO": "N",
@@ -2917,7 +3455,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bce0"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bce0"
+        },
         "COD": "650",
         "NOME": "STA. RITA / PINHEIRINHO",
         "SOMENTE_CARTAO": "N",
@@ -2928,7 +3468,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bce1"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bce1"
+        },
         "COD": "243",
         "NOME": "STA. TEREZINHA",
         "SOMENTE_CARTAO": "F",
@@ -2939,7 +3481,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bce2"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bce2"
+        },
         "COD": "710",
         "NOME": "STA.AMELIA/P.BELO",
         "SOMENTE_CARTAO": "S",
@@ -2950,7 +3494,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bce3"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bce3"
+        },
         "COD": "372",
         "NOME": "TARUMÃ",
         "SOMENTE_CARTAO": "N",
@@ -2961,7 +3507,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bce4"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bce4"
+        },
         "COD": "214",
         "NOME": "TINGUI",
         "SOMENTE_CARTAO": "S",
@@ -2972,7 +3520,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bce5"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bce5"
+        },
         "COD": "545",
         "NOME": "TRABALHADOR",
         "SOMENTE_CARTAO": "N",
@@ -2983,7 +3533,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bce6"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bce6"
+        },
         "COD": "861",
         "NOME": "TRAMONTINA",
         "SOMENTE_CARTAO": "S",
@@ -2994,7 +3546,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bce7"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bce7"
+        },
         "COD": "321",
         "NOME": "TRINDADE",
         "SOMENTE_CARTAO": "N",
@@ -3005,7 +3559,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bce8"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bce8"
+        },
         "COD": "672",
         "NOME": "TUPY/JULIANA",
         "SOMENTE_CARTAO": "N",
@@ -3016,7 +3572,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bce9"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bce9"
+        },
         "COD": "772",
         "NOME": "TUPY/JULIANA",
         "SOMENTE_CARTAO": "S",
@@ -3027,7 +3585,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcea"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcea"
+        },
         "COD": "979",
         "NOME": "TURISMO",
         "SOMENTE_CARTAO": "M",
@@ -3038,7 +3598,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bceb"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bceb"
+        },
         "COD": "472",
         "NOME": "UBERABA",
         "SOMENTE_CARTAO": "N",
@@ -3049,7 +3611,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcec"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcec"
+        },
         "COD": "615",
         "NOME": "UBERLÂNDIA",
         "SOMENTE_CARTAO": "N",
@@ -3060,7 +3624,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bced"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bced"
+        },
         "COD": "643",
         "NOME": "UMBARÁ",
         "SOMENTE_CARTAO": "N",
@@ -3071,7 +3637,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcee"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcee"
+        },
         "COD": "Z01",
         "NOME": "UNIBRASIL / TUBO DETRAN",
         "SOMENTE_CARTAO": "N",
@@ -3082,7 +3650,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcef"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcef"
+        },
         "COD": "165",
         "NOME": "UNIVERSIDADES",
         "SOMENTE_CARTAO": "S",
@@ -3093,7 +3663,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcf0"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcf0"
+        },
         "COD": "829",
         "NOME": "UNIV.POSITIVO",
         "SOMENTE_CARTAO": "N",
@@ -3104,7 +3676,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcf1"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcf1"
+        },
         "COD": "323",
         "NOME": "V. AUTÓDROMO",
         "SOMENTE_CARTAO": "N",
@@ -3115,7 +3689,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcf2"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcf2"
+        },
         "COD": "663",
         "NOME": "V. CUBAS",
         "SOMENTE_CARTAO": "N",
@@ -3126,7 +3702,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcf3"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcf3"
+        },
         "COD": "222",
         "NOME": "V. ESPERANÇA",
         "SOMENTE_CARTAO": "N",
@@ -3137,7 +3715,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcf4"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcf4"
+        },
         "COD": "761",
         "NOME": "V. IZABEL",
         "SOMENTE_CARTAO": "S",
@@ -3148,7 +3728,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcf5"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcf5"
+        },
         "COD": "690",
         "NOME": "V. JULIANA",
         "SOMENTE_CARTAO": "N",
@@ -3159,7 +3741,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcf6"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcf6"
+        },
         "COD": "242",
         "NOME": "V. LEONICE",
         "SOMENTE_CARTAO": "F",
@@ -3170,7 +3754,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcf7"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcf7"
+        },
         "COD": "467",
         "NOME": "V. MACEDO",
         "SOMENTE_CARTAO": "S",
@@ -3181,7 +3767,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcf8"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcf8"
+        },
         "COD": "714",
         "NOME": "V. MARISA",
         "SOMENTE_CARTAO": "N",
@@ -3192,7 +3780,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcf9"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcf9"
+        },
         "COD": "825",
         "NOME": "V. MARQUETO",
         "SOMENTE_CARTAO": "S",
@@ -3203,7 +3793,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcfa"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcfa"
+        },
         "COD": "166",
         "NOME": "V. NORI",
         "SOMENTE_CARTAO": "F",
@@ -3214,7 +3806,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcfb"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcfb"
+        },
         "COD": "336",
         "NOME": "V. RENO",
         "SOMENTE_CARTAO": "N",
@@ -3225,7 +3819,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcfc"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcfc"
+        },
         "COD": "665",
         "NOME": "V. REX",
         "SOMENTE_CARTAO": "N",
@@ -3236,7 +3832,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcfd"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcfd"
+        },
         "COD": "762",
         "NOME": "V. ROSINHA",
         "SOMENTE_CARTAO": "S",
@@ -3247,7 +3845,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcfe"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcfe"
+        },
         "COD": "860",
         "NOME": "V. SANDRA",
         "SOMENTE_CARTAO": "N",
@@ -3258,7 +3858,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bcff"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bcff"
+        },
         "COD": "471",
         "NOME": "V. SÃO PAULO",
         "SOMENTE_CARTAO": "N",
@@ -3269,7 +3871,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bd00"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bd00"
+        },
         "COD": "624",
         "NOME": "V. SÃO PEDRO",
         "SOMENTE_CARTAO": "N",
@@ -3280,7 +3884,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bd01"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bd01"
+        },
         "COD": "184",
         "NOME": "V. SUIÇA",
         "SOMENTE_CARTAO": "S",
@@ -3291,7 +3897,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bd02"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bd02"
+        },
         "COD": "777",
         "NOME": "V. VELHA",
         "SOMENTE_CARTAO": "N",
@@ -3302,7 +3910,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bd03"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bd03"
+        },
         "COD": "652",
         "NOME": "V. VERDE",
         "SOMENTE_CARTAO": "N",
@@ -3313,7 +3923,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bd04"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bd04"
+        },
         "COD": "918",
         "NOME": "VENEZA",
         "SOMENTE_CARTAO": "S",
@@ -3324,7 +3936,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bd05"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bd05"
+        },
         "COD": "Z03",
         "NOME": "VIC. DE CARVALHO / C. IMBUIA",
         "SOMENTE_CARTAO": "S",
@@ -3335,7 +3949,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bd06"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bd06"
+        },
         "COD": "779",
         "NOME": "VILA VELHA/BURITI",
         "SOMENTE_CARTAO": "S",
@@ -3346,7 +3962,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bd07"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bd07"
+        },
         "COD": "630",
         "NOME": "VITÓRIA RÉGIA",
         "SOMENTE_CARTAO": "N",
@@ -3357,7 +3975,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bd08"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bd08"
+        },
         "COD": "657",
         "NOME": "XAXIM / CAPÃO RASO",
         "SOMENTE_CARTAO": "N",
@@ -3368,7 +3988,9 @@
         "URL_URBS": ""
     },
     {
-        "_id": ObjectId("5d719c1f9e6aa3d8a836bd09"),
+        "_id": {
+            "$oid": "5d719c1f9e6aa3d8a836bd09"
+        },
         "COD": "536",
         "NOME": "ZOOLÓGICO",
         "SOMENTE_CARTAO": "N",
