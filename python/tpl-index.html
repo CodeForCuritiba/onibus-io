@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <title>onibus.io</title>
+    <link id="favicon" rel="icon" href="favicon.png" type="image/png">
+    <link href="css/style.css" rel="stylesheet" />
+</head>
+<body class="">
+    <select onchange="gotoLine(this);">
+        <option value="">Selecione uma linha:</option>
+        --LINHAS--
+    </select>
+    <script>
+        function gotoLine(a) {
+            var slug = a.options[a.selectedIndex].value;
+            if (slug != '') {
+                location.href = '' + slug + '.html';
+            }
+        }
+</script>
+</body>
+</html>
