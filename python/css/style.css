@@ -1,0 +1,81 @@
+
+    html {
+        scroll-behavior: smooth;
+    }
+    /* latin */
+    @font-face {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: local('Montserrat Regular'), local('Montserrat-Regular'), url(fonts/m459Wlhyw.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+    /* latin */
+    @font-face {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-display: swap;
+        src: local('Montserrat Bold'), local('Montserrat-Bold'), url(fonts/m45_dJE3gnD_g.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+    
+    body {margin:0;padding:0; font-family: 'Montserrat', sans-serif;}
+
+    header h1 {margin: 12px 0 0 12px; padding: 0;}
+    header h1 > span {padding:16px 5px 0;}
+    header h1 .prata {background:#DDD;}
+    header h1 .amarela {background:#ffd000;}
+    header h1 .laranja {background:#ff7b00;}
+    header .info {margin:0 0 0 12px}
+    header .info-b {position: absolute; right:15px; top:172px; color:#666; font-size: 14px;}
+    header .info-b > span {color:#999;}
+    header .qr {position: absolute; right: 12px;        top: 12px; border:1px solid #CCC}
+    header .qr img {width: 150px;}
+
+    .ui-table-panel {clear:both; padding:12px;}
+    .ui-table-panel .dia {float:left; margin-right:22px;}
+    .ui-table-panel h3 {clear:both; padding: 12px 0 0; margin: 0;}
+    .ui-table-panel h4 {clear:both;margin: 0; padding: 0; background:#EEE;}
+    .schedule {list-style: none;float: left; clear: both; margin:0; padding:0;}
+        .schedule li {list-style: none; width:52px;
+            float: left;margin: 0;
+            padding: 0;}
+            .schedule li.nl {clear:left;}
+            .schedule li.odd {background:#EEE;}
+    .schedule-a {}
+    /*.schedule-table {}
+    .schedule-table li.nl {clear:none;}
+    .schedule-table li.even {background:none;}
+    .schedule-table li {width: auto; padding: 0 8px; font-size: 20px;}*/
+
+    /*.ui-pontos-panel {height: 390px;}*/
+    .ui-pontos-panel h3 {clear:both;}
+    .ui-pontos-panel ul {list-style: none;clear: both; /*float: left;height: 390px;*/}
+    .ui-pontos-panel li {list-style: none; white-space: nowrap; padding-left: 10px;}
+        .ui-pontos-panel.vert {height:auto;}
+        .ui-pontos-panel.vert ul {height:auto;}
+        .ui-pontos-panel.vert li {padding-left:0; transform:none; float:none; width:auto; border-left: 1px solid #ddd; color: #9b9b9b; margin: 0 0 0 6px; padding:1px 0 8px 8px; position: relative;line-height: 160%;}
+        .ui-pontos-panel.prata li::before {background-color: #DDD !important;}
+        .ui-pontos-panel.amarela li::before {background-color: #ffd000 !important;}
+        .ui-pontos-panel.laranja li::before {background-color: #ff7b00 !important;}
+            .ui-pontos-panel.vert li:first-of-type::after {background: #fff; content: "";height: 8px;width: 5px;position: absolute; left: -3px;top: 0;}
+            .ui-pontos-panel li::before { background:#9b9b9b; background-color: rgb(155, 155, 155); content: ""; display: block; height: 11px; width: 11px; position: absolute; left: -6px; top: 8px; border-radius: 100%;}
+        .ui-pontos-panel.vert li::before { left: -6px; top: 8px; }
+
+        @media (max-width:480px){
+            header .qr {display:none;}
+        }
+        @media (min-width:480px){
+            .ui-pontos-panel {height: 390px;}
+            .ui-pontos-panel ul {float: left;height: 390px;}
+            .ui-pontos-panel li {transform: translate(0, 270px) rotate(315deg);
+            transform-origin: center bottom;
+            white-space: nowrap;
+            width: 36px;
+            float: left;padding-left: 10px;}
+        }
+
+    @media print {
+    }
