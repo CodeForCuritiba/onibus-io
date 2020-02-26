@@ -10,9 +10,7 @@ Através de dados publicados pela URBS, ItitBus e gazeta do povo o sistema reún
 
 ***
 
-Exemplo de produto que pode ser gerado com base em dados públicos: trabalho de [Henrique Jakobi - Sistema de informação para transporte público](https://www.behance.net/gallery/20408687/Sistema-de-informacao-para-transporte-publico)
-![Exemplo 901](https://mir-s3-cdn-cf.behance.net/project_modules/1400/c1e43320408687.5bedbd715479b.png)
-![Aplicação](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c62cf720408687.5beba06b1e444.jpg)
+Exemplo de produto que pode ser gerado com base em dados públicos: trabalho de [Henrique Jakobi - Sistema de informação para transporte público](https://www.behance.net/gallery/92660421/Sistema-de-informacao-para-transporte-publico)
 
 ***
 
